@@ -1,0 +1,14 @@
+.forms {
+  display: block;
+  height: 500px;
+  width: 500px;
+  margin-left: 200px;
+  margin-top: 75px;
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 10px 100px / 100px;
+}
+
+.row {
+  display: block;
+  margin-right: 20px;
+}
